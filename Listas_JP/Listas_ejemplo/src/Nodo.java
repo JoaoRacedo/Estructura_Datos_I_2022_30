@@ -1,15 +1,10 @@
-public class Nodo{
-    String data;
-    Nodo next;
+public class Nodo {
+  int data;
+  Nodo next;
+  
+  public Nodo(int data) {
+    this.data = data;
+    this.next = null;
+  }
 
-    public Nodo(String data) {
-        this.data = data;
-        this.next = null;
-    }
-
-    @Override
-    public String toString() {
-        return this.data;
-    }
-    
 }
