@@ -1,24 +1,22 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        LinkedList lista1 = new LinkedList();
-        lista1.AddNode("1");
-        lista1.AddNode("3");
-        lista1.AddNode("2");
-        lista1.AddNode("10");
-        lista1.Escribir_lista();
-
+        LinkedList lista = new LinkedList();
+        System.out.println("Primera lista");
+        lista.AddNode(5);
+        lista.AddNode(2);
+        lista.AddNode(10);
+        lista.AddNode(3);
+        lista.AddNode(6);
+        lista.AddNode(11);
+        lista.Escribir_lista();
+        lista.Sort();
+        lista.Escribir_lista();
         LinkedList lista2 = new LinkedList();
-        lista2.AddNode("-1");
-        lista2.AddNode("-3");
-        lista2.AddNode("-4");
-        lista2.AddNode("-7");
+        System.out.println("Segunda lista");
+        lista2.AddNode(9);
+        lista2.AddNode(8);
         lista2.Escribir_lista();
-
-        // Combinen dos listas
-        LinkedList lista3 = new LinkedList();
-        lista3.Combinar(lista1, lista2);
-        lista3.Escribir_lista();
-        // Organice la lista resultante (DESC/ASC)
+        lista2.Sort();
+        lista2.Escribir_lista();
     }
-
 }
