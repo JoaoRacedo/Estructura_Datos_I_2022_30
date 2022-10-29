@@ -1,0 +1,382 @@
+{
+  "Music Of The Spheres": {
+    "album_uri": "spotify:album:06mXfvDsRZNfnsGZvX2zpb",
+    "track_list": [
+      {
+        "uri": "spotify:track:1a3G9SNslcKsPAOuIikaxd",
+        "explicit": false,
+        "name": "\ud83e\ude90"
+      },
+      {
+        "uri": "spotify:track:65OR4ywy8Cgs3FDHK82Idl",
+        "explicit": false,
+        "name": "Higher Power"
+      },
+      {
+        "uri": "spotify:track:23BO6YozrAXUta1buxFZ80",
+        "explicit": false,
+        "name": "Humankind"
+      },
+      {
+        "uri": "spotify:track:1danObd53GynoY83wRz3Ua",
+        "explicit": false,
+        "name": "\u2728"
+      },
+      {
+        "uri": "spotify:track:4cGqn0E8JCSY9gQllQj4Mf",
+        "explicit": false,
+        "name": "Let Somebody Go"
+      },
+      {
+        "uri": "spotify:track:3oTYv0yShT4sjuPncoUXfK",
+        "explicit": false,
+        "name": "\u2764\ufe0f"
+      },
+      {
+        "uri": "spotify:track:5ophZLHA9mwSZhQSmboyDN",
+        "explicit": true,
+        "name": "People of The Pride"
+      },
+      {
+        "uri": "spotify:track:2L2mM3rEO3arNIMQnb3dou",
+        "explicit": false,
+        "name": "Biutyful"
+      },
+      {
+        "uri": "spotify:track:0RbekAlUrwR6ZWJdwB3V4y",
+        "explicit": false,
+        "name": "\ud83c\udf0e"
+      },
+      {
+        "uri": "spotify:track:46HNZY1i7O6jwTA7Slo2PI",
+        "explicit": false,
+        "name": "My Universe"
+      }
+    ]
+  },
+  "Everyday Life": {
+    "album_uri": "spotify:album:4dBp8rzdqH9unSndGk6g6o",
+    "track_list": [
+      {
+        "uri": "spotify:track:2HQAeoYBn8H72Jo6UyKt6G",
+        "explicit": false,
+        "name": "Sunrise"
+      },
+      {
+        "uri": "spotify:track:3eJUFA6IF9YqXstE1hd3GQ",
+        "explicit": false,
+        "name": "Church"
+      },
+      {
+        "uri": "spotify:track:54XS0PDjYnK85mMByQ03we",
+        "explicit": false,
+        "name": "Trouble in Town"
+      },
+      {
+        "uri": "spotify:track:7tB5i1UdZnzMMIJhdeXlNq",
+        "explicit": false,
+        "name": "BrokEn"
+      },
+      {
+        "uri": "spotify:track:7kWsEOUrlBnR2ITKnqNYuo",
+        "explicit": false,
+        "name": "Daddy"
+      },
+      {
+        "uri": "spotify:track:0s4HHbfHJuvC25U5BQoY28",
+        "explicit": false,
+        "name": "WOTW / POTP"
+      },
+      {
+        "uri": "spotify:track:1yQhKMf4RKZYv9xDtY2HYT",
+        "explicit": false,
+        "name": "Arabesque"
+      },
+      {
+        "uri": "spotify:track:34zYBKIXJD7AO3XoygjdOm",
+        "explicit": false,
+        "name": "When I Need A Friend"
+      },
+      {
+        "uri": "spotify:track:7c3iZEcAtEnz3Ew7qQhghi",
+        "explicit": false,
+        "name": "Guns"
+      },
+      {
+        "uri": "spotify:track:6qQErqahQ4YWT841F7dV56",
+        "explicit": false,
+        "name": "Orphans"
+      }
+    ]
+  },
+  "Live in Buenos Aires": {
+    "album_uri": "spotify:album:19CvkGjYpifkdwgVJSbog2",
+    "track_list": [
+      {
+        "uri": "spotify:track:5H8lr4az4Vo3LloH67yVRt",
+        "explicit": false,
+        "name": "A Head Full of Dreams - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:2s2Ld1Xm7t88gSVvohNbPL",
+        "explicit": false,
+        "name": "Yellow - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:4Q0yfgpERfkp59Pf2tdI4q",
+        "explicit": false,
+        "name": "Every Teardrop Is a Waterfall - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:1aZhbOdRqshLS6uPjiO8Y4",
+        "explicit": false,
+        "name": "The Scientist - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:2q8WO601qIwLwV4DgXDCiO",
+        "explicit": true,
+        "name": "God Put a Smile upon Your Face - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:314gi4w3RdZxlocdWw0Khr",
+        "explicit": false,
+        "name": "Paradise - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:0oAchaVoTWj6lXTR6f2dSU",
+        "explicit": false,
+        "name": "Always in My Head - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:6EqxH0njjZuuI3gFZN3Z1o",
+        "explicit": false,
+        "name": "Magic - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:4U5Cr41d1K6s48GAndvCdM",
+        "explicit": false,
+        "name": "Everglow - Live in Buenos Aires"
+      },
+      {
+        "uri": "spotify:track:4cHZ7W5R81upaIGZfqWxbB",
+        "explicit": false,
+        "name": "Clocks - Live in Buenos Aires"
+      }
+    ]
+  },
+  "Love in Tokyo": {
+    "album_uri": "spotify:album:6K1fjArmQ4SEiSDIG9fY01",
+    "track_list": [
+      {
+        "uri": "spotify:track:5ASbJVESIKfC2nxNA0UR46",
+        "explicit": false,
+        "name": "A Head Full of Dreams"
+      },
+      {
+        "uri": "spotify:track:1HpGWJKP77s23Xc7zVdjTj",
+        "explicit": false,
+        "name": "Yellow - Live"
+      },
+      {
+        "uri": "spotify:track:5yH2h98cFLM1B1DJp7uiyv",
+        "explicit": false,
+        "name": "The Scientist - Live"
+      },
+      {
+        "uri": "spotify:track:0NoOsbBzgnh9q9lc58dJ4X",
+        "explicit": false,
+        "name": "Paradise - Live"
+      },
+      {
+        "uri": "spotify:track:7LUeeObmtmXOMiAHBN5Qgy",
+        "explicit": false,
+        "name": "Everglow - Live"
+      },
+      {
+        "uri": "spotify:track:40oSHFkxutC7q6B1VkDeHs",
+        "explicit": false,
+        "name": "Midnight / Charlie Brown - Live"
+      },
+      {
+        "uri": "spotify:track:68VpbeVBKffSR7LK7zL1Nb",
+        "explicit": false,
+        "name": "Hymn for the Weekend - Live"
+      },
+      {
+        "uri": "spotify:track:5US1KwaMM5EkH9RThcX25u",
+        "explicit": false,
+        "name": "Fix You - Live"
+      },
+      {
+        "uri": "spotify:track:3fFH0oyosweyLnFLfUAV5h",
+        "explicit": false,
+        "name": "Viva La Vida - Live"
+      },
+      {
+        "uri": "spotify:track:21rlsFc8Dv1Vo5EYGkgzT2",
+        "explicit": false,
+        "name": "Adventure of a Lifetime - Live"
+      }
+    ]
+  },
+  "A Head Full of Dreams": {
+    "album_uri": "spotify:album:3cfAM8b8KqJRoIzt3zLKqw",
+    "track_list": [
+      {
+        "uri": "spotify:track:6f49kbOuQSOsStBpyGvQfA",
+        "explicit": false,
+        "name": "A Head Full of Dreams"
+      },
+      {
+        "uri": "spotify:track:3HWDWyIqWuLsTHECx9DvXF",
+        "explicit": false,
+        "name": "Birds"
+      },
+      {
+        "uri": "spotify:track:3RiPr603aXAoi4GHyXx0uy",
+        "explicit": false,
+        "name": "Hymn for the Weekend"
+      },
+      {
+        "uri": "spotify:track:5qfZRNjt2TkHEL12r3sDEU",
+        "explicit": false,
+        "name": "Everglow"
+      },
+      {
+        "uri": "spotify:track:69uxyAqqPIsUyTO8txoP2M",
+        "explicit": false,
+        "name": "Adventure of a Lifetime"
+      },
+      {
+        "uri": "spotify:track:7fJFDK6XjYsXcMKNHESbot",
+        "explicit": false,
+        "name": "Fun (feat. Tove Lo)"
+      },
+      {
+        "uri": "spotify:track:7IX7VAXujvcZ3e1PG7sGP7",
+        "explicit": false,
+        "name": "Kaleidoscope"
+      },
+      {
+        "uri": "spotify:track:4giCxIFPZNQIP4bIZM4sqH",
+        "explicit": false,
+        "name": "Army of One"
+      },
+      {
+        "uri": "spotify:track:3wtV2ifnHzirkAElgTGh63",
+        "explicit": false,
+        "name": "Amazing Day"
+      },
+      {
+        "uri": "spotify:track:3VqiD8Yvk6bKwqS1e64PHB",
+        "explicit": false,
+        "name": "Colour Spectrum"
+      }
+    ]
+  },
+  "A Head Full of Dreams Tour Edition": {
+    "album_uri": "spotify:album:5IDGBfcVjwMoGPKOsfyXLN",
+    "track_list": [
+      {
+        "uri": "spotify:track:32kkgDF3INcwS6qs6ILplZ",
+        "explicit": false,
+        "name": "A Head Full of Dreams"
+      },
+      {
+        "uri": "spotify:track:3R34ORJaGjmAcQK5sfgmQ0",
+        "explicit": false,
+        "name": "Birds"
+      },
+      {
+        "uri": "spotify:track:3Jqgu4nVb0oQTGmObR097r",
+        "explicit": false,
+        "name": "Hymn for the Weekend"
+      },
+      {
+        "uri": "spotify:track:2eUDgLm67Itf6vEYK1L9wf",
+        "explicit": false,
+        "name": "Everglow"
+      },
+      {
+        "uri": "spotify:track:17ZmrriLHd1RnaFBp6c7UI",
+        "explicit": false,
+        "name": "Adventure of a Lifetime"
+      },
+      {
+        "uri": "spotify:track:0SREKu7J3D8Uw7qyl2OCMb",
+        "explicit": false,
+        "name": "Fun (feat. Tove Lo)"
+      },
+      {
+        "uri": "spotify:track:0KxEJcGUaW7b6GpPNPL7gH",
+        "explicit": false,
+        "name": "Kaleidoscope"
+      },
+      {
+        "uri": "spotify:track:5oVHiXIQxwahhbFOzD5ZUF",
+        "explicit": false,
+        "name": "Army of One"
+      },
+      {
+        "uri": "spotify:track:6w3eoWrKcR4x41uG3cwGNF",
+        "explicit": false,
+        "name": "Amazing Day"
+      },
+      {
+        "uri": "spotify:track:2vlTT7d7yovhBMgcsUrONg",
+        "explicit": false,
+        "name": "Colour Spectrum"
+      }
+    ]
+  },
+  "Ghost Stories Live 2014": {
+    "album_uri": "spotify:album:1hNS0RsxPTFjmKXCgmjSLS",
+    "track_list": [
+      {
+        "uri": "spotify:track:0zM6Zj4Iao1tJFHWc2PsrL",
+        "explicit": false,
+        "name": "Always in My Head - Live at the Royal Albert Hall, London"
+      },
+      {
+        "uri": "spotify:track:3bVwuZb0nYvAMn3roElQnY",
+        "explicit": false,
+        "name": "Magic - Live at the Enmore Theatre, Sydney"
+      },
+      {
+        "uri": "spotify:track:29G1awyCr8RHz9EsTwqC6P",
+        "explicit": false,
+        "name": "Ink - Live at Le Casino De Paris, Paris"
+      },
+      {
+        "uri": "spotify:track:4KmOOVu1sdBLKJbfEm4p1X",
+        "explicit": false,
+        "name": "True Love - Live at the Enmore Theatre, Sydney"
+      },
+      {
+        "uri": "spotify:track:5lsz74yVLAvt3anpHZHCTS",
+        "explicit": false,
+        "name": "Midnight - Live at the Royal Albert Hall, London"
+      },
+      {
+        "uri": "spotify:track:79fUOcp3p5YCkBD6ILl6Tz",
+        "explicit": false,
+        "name": "Another's Arms - Live at the Beacon Theatre, New York"
+      },
+      {
+        "uri": "spotify:track:2OKnY0cqro0qsOijOondrr",
+        "explicit": false,
+        "name": "Oceans - Live at E-Werk, Cologne"
+      },
+      {
+        "uri": "spotify:track:2WXTF0qgKbczC2O8VymeLO",
+        "explicit": false,
+        "name": "A Sky Full of Stars - Live at the Royal Albert Hall, London"
+      },
+      {
+        "uri": "spotify:track:1ZAcQoFIdhYdKx8FaR4c3t",
+        "explicit": false,
+        "name": "O - Live at Royce Hall, Los Angeles"
+      }
+    ]
+  }
+}

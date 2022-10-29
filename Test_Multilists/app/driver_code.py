@@ -1,8 +1,10 @@
 #from app.classes import LinkedList
+import json
 from app.classes import LinkedList_album
 from app.spotify_stuff import Spotify_Stuff
 
 spotify = Spotify_Stuff()
+#url_data = "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU?si=dlmcH2byTAa9tYhNIpZx-A"
 url_data = "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=UxdHBE31RvOq-7FtFXVEyg"
 album_list = spotify.get_artist_album_data_by_URL(url_data)
 json_data = spotify.get_tracks_from_URI_album(album_list)
@@ -28,3 +30,8 @@ print(albums_linked_list.head)
 print("how many tracks in this album:")
 print(len(albums_linked_list.head.head_node_track))
 print(albums_linked_list.head.head_node_track)
+
+#data = json.dumps(json_data, indent=2)
+
+#with open("sample.json", "w") as outfile:
+#    outfile.write(data)
