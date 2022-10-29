@@ -9,7 +9,7 @@ The workspace contains two folders by default, where:
 to create the documentation use:
 
 ```console
-path/to/proyect/Multilist_test_java:~$ javadoc -d chose_path path_to_script/LL_Empleados.java
+path/to/proyect/Multilist_test_java:~$ javadoc -d chose_path/to_save_doc/ path_to_script/LL_Empleados.java
 ```
 
 to learn more about javadoc:
